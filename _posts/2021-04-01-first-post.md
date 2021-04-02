@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's give this GitHub pages and Jekyll thing a try!"
 date:   2021-04-01 13:40:08 -0400
-categories: github jekyll learning wsl2
+tags: github jekyll learning wsl2
 ---
 
 I got a wild hair up my keister today and decided to do some maintenance on and upgrade my Windows 10 dev environment.
